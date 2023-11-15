@@ -1,9 +1,9 @@
 # Technology Stack to Study
 
-[HTML](https://www.w3schools.com/html/default.asp)
-[CSS](https://www.w3schools.com/css/default.asp)
-[JAVASCRIPT](https://www.w3schools.com/js/default.asp)
-[PHP](https://www.w3schools.com/php/default.asp)
+    - [HTML](https://www.w3schools.com/html/default.asp)
+    - [CSS](https://www.w3schools.com/css/default.asp)
+    - [JAVASCRIPT](https://www.w3schools.com/js/default.asp)
+    - [PHP](https://www.w3schools.com/php/default.asp)
 
 
 # Projects to practice
