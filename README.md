@@ -1,12 +1,16 @@
 # Technology Stack to Study
 
-    [HTML](https://www.w3schools.com/html/default.asp)
+## Introduction to html
+[HTML](https://www.w3schools.com/html/default.asp)
 
-    [CSS](https://www.w3schools.com/css/default.asp)
+## Introduction to CSS
+[CSS](https://www.w3schools.com/css/default.asp)
 
-    [JAVASCRIPT](https://www.w3schools.com/js/default.asp)
-    
-    [PHP](https://www.w3schools.com/php/default.asp)
+## Introduction to javascript
+[JAVASCRIPT](https://www.w3schools.com/js/default.asp)
+
+## Introduction to PHP
+[PHP](https://www.w3schools.com/php/default.asp)
 
 
 # Projects to practice
